@@ -14,7 +14,10 @@
 </p>
 
 ---
-![Antonio github stats](https://github-readme-stats.vercel.app/api?username=AntonioCelsoPrado&show_icons=true&theme=dark)
+
+![Antonio github stats](https://github-readme-stats.vercel.app/api?username=antonioticelso&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioticelso&theme=dark&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
