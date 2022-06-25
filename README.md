@@ -6,6 +6,13 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561985764443&text=Olá!)](https://api.whatsapp.com/send?phone=5561985764443&text=Olá!)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/antonioticelso)](https://github.com/antonioticelso)
 
+<p>
+  <img src="https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=red&color=05122A" />
+  <img src="https://img.shields.io/badge/Cloud&nbsp;Public-Amazon&nbsp;AWS-informational?style=flat&logo=Amazon&color=05122A" />
+  <img src="https://img.shields.io/badge/Cloud&nbsp;Private-Kubernetes-informational?style=flat&logo=kubernetes&color=05122A" />
+  <img src="https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=05122A" />
+</p>
+
 ---
 ![Antonio github stats](https://github-readme-stats.vercel.app/api?username=AntonioCelsoPrado&show_icons=true&theme=dark)
 
