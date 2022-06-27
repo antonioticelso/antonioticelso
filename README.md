@@ -20,15 +20,37 @@
 
 ---
 
-- 👋 Hi, I’m @antonioticelso
+## 👋 Hi, I’m @AntonioCelso
+
+Carreira como Desenvolvedor Java Fullstack, apaixonado, curioso e entusiasta por tecnologia e inovações, busco sempre manter-me atualizado e a par das tendências de mercado: codificando e estudando novas tecnologias.
+Porque a tecnologia evolui nossa sociedade, e quero fazer parte dessas mudanças.
+
+### Formações
+- 🎓 Graduado - Análise e Desenvolvimento de Sistemas - UniCEUB - 2º/2020
+- 🎓 Pós graduado - Gestão Tecnologia da Informação - Faculdade Michelangelo - 2º/2015
+- 🎓 Pós graduado - Gestão Empresarial - Instituto IMP de Educação - 2º/2013
+- 🎓 Graduado - Ciências Contábeis - UCB - 2º/2008
+
+---
+
+## Principais Habilidades
+- [x] Java | Spring | Quarkus | Java EE
+- [x] Junit | Mockito | PowerMock
+- [x] Swagger | OpenApi
+- [x] Restful | Rest | SOAP
+- [x] Angular 2+ | Angular JS | Javascript
+- [x] HTML | CSS
+- [x] Postgres | Oracle | MongoDB | MySQL | DB2
+- [x] Docker | OpenShift | Jenkins | Sonar | Git
+- [x] IntelliJ | VSCode | Sublame | Postman
+- [x] Scrum | Kambam
+- [x] Linux | Windows
+
+<!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
----
-
-<!---
 antonioticelso/antonioticelso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
